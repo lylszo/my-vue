@@ -1,3 +1,3 @@
 <template>
-	<p>是的发生的</p>
+	<p>船前明月光</p>
 </template>
